@@ -1,4 +1,5 @@
 🧪 Dark Matter Quantum Chamber Simulation
+🌐 **Live Demo:** [darkmatter.newportriver.com](https://darkmatter.newportriver.com)
 
 This project is a theoretical, interactive simulation environment designed to visually and conceptually demonstrate a novel approach to detecting dark matter using non-collisional magnetic and gravitational separation.
 
